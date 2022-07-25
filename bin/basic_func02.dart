@@ -6,5 +6,5 @@ void main() {
 }
 
 String func() {
-  return "Hello world";
+  return "Hello World";
 }

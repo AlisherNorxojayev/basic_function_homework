@@ -6,5 +6,5 @@ void main() {
 }
 
 String func() {
-  return "codeschool";
+  return "codeschooluz";
 }
